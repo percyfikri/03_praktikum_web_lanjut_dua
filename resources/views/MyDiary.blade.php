@@ -22,15 +22,7 @@
                   </div>
                 </div>
                 <div class="card-body">
-                  Saya mulai masuk kuliah pada tahun 2021. Saya kuliah di Politeknik Negeri Malang.
-                  Dan saya memilih jurusan Teknologi Informasi , prodi D4 Teknik Informatika.
-                  Saya memilih jurusan ini karena ingin meneruskan kompetensi saya yang sebelumnya
-                  berada di SMK yaitu jurusan Rekayasa Perangkat Lunak. Walaupun sebenarnya saya ingin
-                  bekerja setelah lulus dari SMK. Karena orang tua menginginkan saya untuk kuliah maka
-                  saya harus melakukannya, saya yakin walaupun itu bukan kemauan saya tapi itu merupakan
-                  salah satu jalan saya untuk menuju kesuksesan. Tentunya dengan adanya dukungan penuh dari keluarga
-                  saya, usaha, dan doa. Semoga ini merupakan jalan terbaik untuk saya. Dan suatu saat nanti saya ingin
-                  membahagiakan orang tua saya, karena tanpa mereka saya bukanlah apa-apa.
+                    Sejak berkuliah di POLINEMA dengan memilih jurusan di Teknin Informasi prodi D4 Teknik Informatika, Saya sangat senang dikarenakan tugas yang diberikan oleh paradosen sangatlah mudah dan pemberian deadlinenya juga panjang. Oleh karena itu, saya sangat termotivasi untuk selalu rajin mengikuti perkuliahan dan mengerjakan tugas tepat waktu
                 </div>
                 <!-- /.card-body -->
               </div>

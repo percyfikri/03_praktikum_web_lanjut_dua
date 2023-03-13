@@ -1,4 +1,4 @@
-@extends('layouts/master')
+@extends('master')
 
 @section('title', 'Profile')
 
@@ -17,7 +17,7 @@
             <div class="card-body box-profile">
               <div class="text-center">
                 <img class="profile-user-img img-fluid img-circle"
-                     src="../../dist/img/1.png"
+                     src="../../dist/img/2141720190(1).png"
                      alt="User profile picture">
               </div>
 
@@ -27,13 +27,13 @@
 
               <ul class="list-group list-group-unbordered mb-3">
                 <li class="list-group-item">
-                  <b>Followers</b> <a class="float-right">146</a>
+                  <b>Followers</b> <a class="float-right">1M</a>
                 </li>
                 <li class="list-group-item">
-                  <b>Following</b> <a class="float-right">304</a>
+                  <b>Following</b> <a class="float-right">99</a>
                 </li>
                 <li class="list-group-item">
-                  <b>Friends</b> <a class="float-right">13,485</a>
+                  <b>Friends</b> <a class="float-right">15,560</a>
                 </li>
               </ul>
 
@@ -75,7 +75,7 @@
 
               <strong><i class="far fa-file-alt mr-1"></i> Notes</strong>
 
-              <p class="text-muted">Tugas itu dikerjakan jangan dipikir</p>
+              <p class="text-muted">I really like the task</p>
             </div>
             <!-- /.card-body -->
           </div>

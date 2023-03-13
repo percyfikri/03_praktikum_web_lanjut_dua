@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\HomeController;
+use App\Http\Controllers\HalamanController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,10 +18,10 @@ Route::get('/', function () {
     return view('master');
 });
 
-Route::get('/Dashboard',[HomeController::class, 'index']);
+Route::get('/Dashboard',[HalamanController::class, 'index']);
 
-Route::get('/profile',[HomeController::class, 'profile']);
+Route::get('/profile',[HalamanController::class, 'profile']);
 
-Route::get('/MyDiary',[HomeController::class, 'MyDiary']);
+Route::get('/MyDiary',[HalamanController::class, 'MyDiary']);
 
-Route::get('/contact-us',[HomeController::class, 'contact']);
+Route::get('/contact-us',[HalamanController::class, 'contact']);

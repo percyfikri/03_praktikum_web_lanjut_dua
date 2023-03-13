@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class HomeController extends Controller
+class HalamanController extends Controller
 {
     function index(){
         $data = [
@@ -17,11 +17,11 @@ class HomeController extends Controller
             'judul_profile' => 'Halaman Profile',
             'tentang_saya' => 'Tentang Saya',
             'profile' => [
-                'nama' => 'Abiyasa Putra Prasetya',
-                'email' => 'abiyasa424@gmail.com',
+                'nama' => 'Muhammad Alvi Fikri',
+                'email' => 'alvifikri1@gmail.com',
                 'status' => 'Mahasiswa',
                 'kampus' => 'Jl. Soekarno Hatta No.9, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141',
-                'alamat' => 'DS. Glanggang RT/RW 14/08 KEC. Pakisaji',
+                'alamat' => 'JL KH Hasyim Asyari, Kepanjen, Malang',
                 'skill1' => 'PHP',
                 'skill2' => 'Java'
             ]
