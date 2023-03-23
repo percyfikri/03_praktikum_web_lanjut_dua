@@ -28,11 +28,11 @@ class HalamanController extends Controller
             ];
         return view('profile')->with($data);
     }
-    function MyDiary(){
+    function Experience(){
         $data = [
             'exp' => 'Pengalaman Kuliah'
         ];
-        return view('MyDiary')->with($data);
+        return view('Experience')->with($data);
     }
     function contact(){
         return view('contact');

@@ -22,6 +22,6 @@ Route::get('/Dashboard',[HalamanController::class, 'index']);
 
 Route::get('/profile',[HalamanController::class, 'profile']);
 
-Route::get('/MyDiary',[HalamanController::class, 'MyDiary']);
+Route::get('/experience',[HalamanController::class, 'experience']);
 
 Route::get('/contact-us',[HalamanController::class, 'contact']);

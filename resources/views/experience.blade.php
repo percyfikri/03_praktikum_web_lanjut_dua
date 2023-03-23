@@ -1,10 +1,10 @@
 @extends('master')
 
-@section('title', 'My Diary')
+@section('title', 'Experience')
 
 @section('pages')
 
-@section('page', 'My Diary')
+@section('page', 'Experience')
 
 @section('konten_diary')
         <div class="container-fluid">

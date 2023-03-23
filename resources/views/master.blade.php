@@ -26,10 +26,10 @@
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Home</a>
+        <a href="../" class="nav-link">Home</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="contact-us" class="nav-link">Contact</a>
+        <a href="contact-us" class="nav-link">Contact us</a>
       </li>
     </ul>
 
@@ -55,9 +55,9 @@
             </div>
           </form>
         </div>
-      </li>
+      </li> 
 
-      <!-- Messages Dropdown Menu -->
+      {{-- <!-- Messages Dropdown Menu -->
       <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#">
           <i class="far fa-comments"></i>
@@ -109,13 +109,13 @@
                 <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Hours Ago</p>
               </div>
             </div>
-            <!-- Message End -->
-          </a>
+            <!-- Message End --> --}}
+          {{-- </a>
           <div class="dropdown-divider"></div>
           <a href="#" class="dropdown-item dropdown-footer">See All Messages</a>
         </div>
-      </li>
-      <!-- Notifications Dropdown Menu -->
+      </li> --}}
+      {{-- <!-- Notifications Dropdown Menu -->
       <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#">
           <i class="far fa-bell"></i>
@@ -141,7 +141,7 @@
           <div class="dropdown-divider"></div>
           <a href="#" class="dropdown-item dropdown-footer">See All Notifications</a>
         </div>
-      </li>
+      </li> --}}
       <li class="nav-item">
         <a class="nav-link" data-widget="fullscreen" href="#" role="button">
           <i class="fas fa-expand-arrows-alt"></i>
@@ -213,7 +213,7 @@
             </a>
           </li>
           {{-- <li class="nav-item menu-open"> --}}
-            <a href="MyDiary" class="nav-link active">
+            <a href="experience" class="nav-link active">
               <i class="nav-icon fas fa-copy"></i>
               <p>
                 Pengalaman Kuliah
